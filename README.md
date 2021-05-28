@@ -27,7 +27,6 @@
     The backend was written with Node.js and typescript and the client was written with React server side rendering.
     <br />
     <br />
-    <a href="http://xtickets.guy-berkovich.com">View Demo</a>
     ·
     <a href="https://github.com/GuyBerko/xtickets/issues">Report Bug</a>
     ·
